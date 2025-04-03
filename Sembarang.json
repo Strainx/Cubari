@@ -4,5 +4,16 @@
   "artist": "Nanao",
   "author": "Nanao",
   "cover": "https://drive.google.com/file/d/1CAjA0WyBVDg1fCq7drho5IcusTkYmtDH/view?usp=drive_link",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1743650527",
+      "groups": {
+        "master works": [
+          "https://drive.google.com/file/d/1BVbjJiH_t8YZw3r6lWLFK5t4FGwGo3el/view?usp=drive_link"
+        ]
+      }
+    }
+  }
 }
